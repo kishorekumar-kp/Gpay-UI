@@ -18,7 +18,7 @@ Gpay UI design by TailwindCSS
 
 ## Description
 
-WhatsApp's user interface (UI) features a clean, simple design. The home screen displays chats, with a bottom navigation bar for calls, camera, status, and settings. Conversations show text, images, and voice messages, offering a user-friendly experience.
+Gpay's user interface (UI) features a clean, simple design. The home screen displays Conversations show text who made payment for you, offering a user-friendly experience.
 
 ## Demo🚀
 
