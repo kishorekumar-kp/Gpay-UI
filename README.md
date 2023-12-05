@@ -1,36 +1,66 @@
-# gpay-ui 
-[making clone ui of g-pay]
+# Project Title👋
+
+Gpay UI design by TailwindCSS
+
 ## Table of Contents
-- [g-pay](#project-title)
-- [making clone ui of g-pay](#description)
+- [Project Title](#project-title)
+- [Description](#description)
 - [Demo](#demo)
 - [Internship](#internship)
-- [Vite ,Tailwindcss](#technologies-used)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+
+
 ## Description
-[Provide a more detailed description of your project. Explain what it does, its purpose, and any unique features.]
-## Demo
-[Include links to a live demo, screenshots, or GIFs that showcase your project in action.]
-## Internship
+
+WhatsApp's user interface (UI) features a clean, simple design. The home screen displays chats, with a bottom navigation bar for calls, camera, status, and settings. Conversations show text, images, and voice messages, offering a user-friendly experience.
+
+## Demo🚀
+
+<a target="_blank" href="https://kishorekp-gpay-ui.netlify.app/">Demo Link</a>
+
+## Internship🥳
+
 This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
-## Technologies Used 
-[List the technologies, programming languages, and libraries/frameworks used in your project.]
+
+## Technologies Used
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="tailwind" width="40" height="40"/> </a> 
+
 ## Features
-- [List the key features and functionality of your project.]
+
+- To help you understand my skills and information better, I kindly request you to take a look at my Profile.
+
 ## Installation
-[Provide step-by-step instructions on how to install and set up your project locally. Include any prerequisites and dependencies.]
-## Usage
-[Explain how to use your project, including any configuration options, examples, or code snippets.]
+
+To install and run this project on your local machine, follow these steps:
+
+1. Install vite
+2. Configure tailwind css 
+
+
 ## Contributing
-[Explain how others can contribute to your project, such as reporting issues, submitting pull requests, and any coding guidelines.]
+
+If you want to contribute to the project, please follow the guidelines outlined in the installation. You can also contribute and edit the design to make more Perfect.
+
 ## License
-[Specify the license under which your project is distributed. For example, you can use an open-source license like MIT, GPL, or Apache 2.0. Include a link to the full license text.]
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Acknowledgments
-[If your project uses third-party code, libraries, or resources, acknowledge and give credit to the authors or projects that have been helpful.]
+
+- **Cyberdude Network Pty Limited:** Thanks to [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) opportunity and guidance.
+
+- **Mentor Name:** Special thanks to [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky) for their valuable mentorship.
+
+
 ---
-[Optional: Include badges, social media links, or additional information about your project or yourself.]
+
+Reach me to LinkedIn **https://www.linkedin.com/in/kishorekumar-kp/**
+
